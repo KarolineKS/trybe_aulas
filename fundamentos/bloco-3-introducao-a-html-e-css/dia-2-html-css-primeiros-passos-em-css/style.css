@@ -1,0 +1,32 @@
+h2 {
+    color: green;
+  }
+
+  body {
+    background-color: rgb(255, 400, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+  }
+
+  p {
+      font-family:fantasy;
+  }
+
+  #extinct-especie {
+    background-color: red;
+    color: white;
+  }
+
+  #description {
+    color: orange;
+
+  }
+
+  .list-style {
+      background-color: blueviolet;
+      color: white;
+      font-style: italic;
+      font-weight: bolder;
+      text-align: center;
+      text-decoration: underline;
+  }
