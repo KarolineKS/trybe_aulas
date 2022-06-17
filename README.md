@@ -1,2 +1,1 @@
-Este repositório tem como função guardar todos os exercícios realizados em aula durante o curso 
-da Trybe.
+Este repositório tem como função guardar todos os exemplos realizados durante as aulas pelos instrutores e pessoas especialistas da Trybe. 
